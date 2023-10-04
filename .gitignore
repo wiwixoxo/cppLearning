@@ -1,0 +1,17 @@
+# Ignore Makefile
+Makefile
+
+# Ignore .cache directory
+.cache/
+
+# Ignore compile_commands.json
+compile_commands.json
+
+# Ignore .codelite directory
+.codelite/
+
+# Ignore Cpplearning.workspace
+Cpplearning.workspace
+
+# Ignore build-debug directory
+build-debug/
